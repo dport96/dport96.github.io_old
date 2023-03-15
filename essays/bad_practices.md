@@ -10,7 +10,7 @@ labels:
 
 # Bad Practices for Novices to Avoid
 
-Here is a compendium of bad practices I've observed are common begginnging programmers. If you recognize yourself doing any of these, try to the advice given in Better Practice. There more a bad practice becomes a habit, the more difficult it will be to change to a practice that is more effective! 
+Here is a compendium of bad practices I've observed are common beginning programmers. If you recognize yourself doing any of these, try to the advice given in Better Practice. There more a bad practice becomes a habit, the more difficult it will be to change to a practice that is more effective! 
 
 **Bad Practice:** Blindly copying code into your code from another source (such as Stack Overflow, chartGBT, or a classmate). 
 
@@ -25,6 +25,13 @@ Here is a compendium of bad practices I've observed are common begginnging progr
 **Why this is bad:** Every line of code will have a specific purpose for being there. The purpose is dictated by the design choices you make on how to accomplish what is wanted. Random code does not "flow" from the design so it will unlikely by chance do what you want.
 
 **Better Practice:** Do not ever write (or copy) code that you do not clearly know flows from your design. You should know exactly what each line of code does (or is supposed to do) and why it's there. If you do not, DELETE this code! If you are unclear on the design, "go backward" to clarify that you know exactly what is wanted (or at least what you want).
+
+---
+**Bad Practice:** Writing code without sufficient analysis and design
+
+**Why this is bad:** Students often feel that unless they're writing code, they're not making progress.
+
+**Better Practice:** Always follow the "What - how - do - test" cycle. 
 
 ---
 
