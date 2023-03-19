@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-robot.png
+image: img/difficulty/degree_difficulty.jpg
 title: Elementary Business Analytics Case Book
 permalink: projects/ElementaryBusiness-Analytics-Case-Book
 # All dates must be YYYY-MM-DD format!
