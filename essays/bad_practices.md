@@ -90,3 +90,17 @@ Here is a compendium of bad practices I've observed are common beginning program
 
 **Better Practice:** xxx
 
+---
+**Bad Practice:** Poor naming of variables, functions, files, classes
+
+**Why this is bad:** The reason these considerations are important is that the names you choose can have a significant impact on the readability, maintainability, reusability of your code. Choosing clear, meaningful, and consistent names will help other developers understand your code and make it easier to maintain and update over time.
+
+
+**Better Practice:** Keep the following considerations in mind when choosing a name:
+  - Clarity: The name should clearly describe what the variable, function, file, or class does. It should be easy to understand and not confuse other developers who may be reading or using your code.
+  - Consistency: The naming convention should be consistent throughout the codebase. This will help make the code easier to read and maintain.
+  - Length: The name should be long enough to be descriptive but not too long that it becomes cumbersome to type or read. Avoid using reserved keywords: Avoid using reserved keywords as variable names, function names, or class names.
+  - Meaningfulness: Use meaningful names instead of using short, abbreviated, or cryptic names that can be difficult to understand.
+  - Avoid special characters: Avoid using special characters like underscores, hyphens, or spaces in the name. Instead, use camelCase or snake_case for variable and function names.
+  - Follow naming conventions: Different programming languages have different naming conventions. Following the conventions of the language will help make the code more readable and maintainable.
+
