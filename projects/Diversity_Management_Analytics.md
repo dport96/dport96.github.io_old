@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ignighting/paintbrushes.jpg
+image: img/igniting/paintbrushes.jpg
 title: "Diversity Management Analytics"
 permalink: projects/Diversity_Management_Analytics
 # All dates must be YYYY-MM-DD format!

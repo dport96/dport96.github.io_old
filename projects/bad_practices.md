@@ -1,11 +1,14 @@
 ---
-layout: essay
-type: essay
+layout: project
+type: project
+image: img/difficulty/smell.jpeg
 title: "Bad Practices for Novices to Avoid"
+permalink: projects/BPS
 # All dates must be YYYY-MM-DD format!
-date: 2023-03-06
+date: 2018-07-01
 labels:
   - Advice
+summary: A compendium of bad practice smells in software engineering education
 ---
 
 # Bad Practices for Novices to Avoid

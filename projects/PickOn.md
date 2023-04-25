@@ -3,7 +3,7 @@ layout: project
 type: project
 image: "img/micromouse/micromouse-robot-2.jpg"
 title: "PickOn"
-permalink: projects/BUS619
+permalink: projects/PickOn
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-01
 labels:
