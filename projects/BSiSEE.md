@@ -81,5 +81,7 @@ Important Dates:
 
 **WORKSHOP ORGANIZING COMMITTEE**
 
-* Dan Port, dport@hawaii.edu (primary organizer)
-* Rick Kazman, kazman@hawaii.edu
+* Dan Port, dport AT hawaii DHOT edu (primary organizer)
+* Rick Kazman, kazman AT hawaii DHOT edu
+
+Questions and comments are welcome! 
