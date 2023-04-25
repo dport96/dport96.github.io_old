@@ -57,7 +57,7 @@ D.	Evidence that the bad practice occurs or, at the minimum, multiple examples o
 
 E.	Guidance (if any) for better practices within the context of software engineering courses
 
-F.	In what courses have the bad practices have been observed
+F.	In what courses have the bad practices been observed
 
 G.	How (if at all) has the bad practice been addressed within software engineering courses or programs 
 
