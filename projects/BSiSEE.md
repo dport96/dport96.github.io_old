@@ -73,7 +73,7 @@ Multiple contributions may be made. Contributions will be evaluated on (1) relev
 
 Accepted contributors will be expected to attend CSEE&T (virtual attendance may be available) and present their contributions at the workshop and collaborate on a subsequent publication. Contributions will be added to the compendium 
 
-Submit contributions using the above format to bsisee2023@gmail.com
+Submit contributions using the above format to <bsisee2023@gmail.com>
 
 Important Dates:
 * Submission deadline: June, 7 2023
