@@ -63,15 +63,15 @@ G.	How (if at all) has the bad practice been addressed within software engineeri
 
 H.	What needs to be workshopped to address this bad practice
 
-Please review the “primer” set of contributions at:
+Please review the compendium draft set of contributions at:
 
-**[https://dport96.github.io/essays/bad_practices.html](https://dport96.github.io/essays/bad_practices.html)**
+**[BSiSEE 2023 Compendium](https://docs.google.com/document/d/1T2L2uWdhbVe2mWpj_qvcZ1iym6WFgy-BH3vvjwRYLpw/edit?usp=sharing)**
 
 You are welcome to expand on these contributions or submit other contributions that provide additional perspectives. 
 
 Multiple contributions may be made. Contributions will be evaluated on (1) relevance to the workshop theme, and (2) potential of contributor to actively participate in the workshop.
 
-Accepted contributors will be expected to attend CSEE&T (virtual attendance may be available) and present their contributions at the workshop and collaborate on a subsequent publication.
+Accepted contributors will be expected to attend CSEE&T (virtual attendance may be available) and present their contributions at the workshop and collaborate on a subsequent publication. Contributions will be added to the compendium 
 
 Submit contributions using the above format to bsisee2023@gmail.com
 
