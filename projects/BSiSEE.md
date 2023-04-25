@@ -9,7 +9,6 @@ date: 2023-02-01
 labels:
   - Workshop CFP
 summary: CSEE&T 2023 Workshop on Bad Smells in Software Engineering Education
-
 ---
 <p style="text-align: center;font-weight: bold;">
 <font size="+5">
@@ -70,22 +69,17 @@ Please review the “primer” set of contributions at:
 
 You are welcome to expand on these contributions or submit other contributions that provide additional perspectives. 
 
-Multiple contributions may be made. Contributions will be evaluated on (1) relevance to the workshop theme, and (2) potential of contributor to actively participate in the workshop. Accepted contributions will be posted to a online compendium and published in the workshop proceedings.
+Multiple contributions may be made. Contributions will be evaluated on (1) relevance to the workshop theme, and (2) potential of contributor to actively participate in the workshop.
 
 Accepted contributors will be expected to attend CSEE&T (virtual attendance may be available) and present their contributions at the workshop and collaborate on a subsequent publication.
 
-Submit contributions electronically through EasyChair ([https://www.easychair.org/conferences/?conf=cseet2023](https://www.easychair.org/conferences/?conf=cseet2023)).
+Submit contributions using the above format to bsisee2023@gmail.com
 
 Important Dates:
-
-
-
 * Submission deadline: June, 7 2023
 * Notification: July 7, 2023 
 
 **WORKSHOP ORGANIZING COMMITTEE**
-
-
 
 * Dan Port, dport@hawaii.edu (primary organizer)
 * Rick Kazman, kazman@hawaii.edu
